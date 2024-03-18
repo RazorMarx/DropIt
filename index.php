@@ -114,7 +114,7 @@ if(!empty($_FILES['chunk']))
             font-size: 16px;
             color: #0e0e0e;
             text-overflow: ellipsis;
-            text-wrap: nowrap;
+            white-space: nowrap;
             flex-grow: 1;
             overflow: hidden;
         }
