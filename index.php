@@ -55,7 +55,10 @@ if(!empty($_FILES['chunk']))
             align-items: center;
             background-color: #0e0e0e;
             opacity: 1;
-            background-image:  linear-gradient(135deg, #9cd04b 25%, transparent 25%), linear-gradient(225deg, #9cd04b 25%, transparent 25%), linear-gradient(45deg, #9cd04b 25%, transparent 25%), linear-gradient(315deg, #9cd04b 25%, #0e0e0e 25%);
+            background-image:  linear-gradient(135deg, #9cd04b 16px, transparent 25%),
+                               linear-gradient(225deg, #9cd04b 16px, transparent 25%),
+                               linear-gradient(45deg, #9cd04b 16px, transparent 25%),
+                               linear-gradient(315deg, #9cd04b 16px, #0e0e0e 25%);
             background-position:  24px 0, 24px 0, 0 0, 0 0;
             background-size: 48px 48px;
             background-repeat: repeat;
