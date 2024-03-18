@@ -5,9 +5,10 @@ One php file fancy file uploader
 
 # Feature :
 - Drag'n'Drop files
+- Async uploading
 - Multiples files
 - Big file uploading (sliced and recomposed)
-- Too much animation
+- Stupidly colorful
 
 
 # Licence
