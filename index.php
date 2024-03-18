@@ -71,11 +71,8 @@ if(!empty($_FILES['chunk']))
         }
         .gradient-text{
             background: linear-gradient(90deg, #0e0e0e, var(--rainbow-color), #0e0e0e);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            -moz-background-clip: text;
-            -moz-text-fill-color: transparent;
             background-clip: text;
+            -webkit-text-fill-color: transparent;
             background-color: #0e0e0e;
             background-size: 200%;
             animation: rainbow 1s infinite linear;
@@ -112,7 +109,6 @@ if(!empty($_FILES['chunk']))
         }
         .file-label .file-name{
             font-size: 16px;
-            color: #0e0e0e;
             text-overflow: ellipsis;
             white-space: nowrap;
             flex-grow: 1;
