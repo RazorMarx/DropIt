@@ -4,6 +4,7 @@ One php file fancy file uploader
 ![image](https://github.com/RazorMarx/DropIt/assets/16266220/7add8ea6-e286-4b4d-9384-12e135252adb)
 
 # Feature :
+- Only One File 
 - Drag'n'Drop files
 - Async uploading
 - Multiples files
